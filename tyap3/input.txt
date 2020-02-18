@@ -1,0 +1,11 @@
+int r;
+int main(){ {{{{int n,m,b=5;}}}}
+	double x,y;
+	int n,m;
+	n = 1000000000;
+	m = n*n;
+	y = n;
+	y = y*y;
+}
+
+int s;
